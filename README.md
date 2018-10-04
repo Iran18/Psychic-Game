@@ -1,2 +1,2 @@
-# Psychic-Game
-Basic
+# Word-Guess-Game
+A1
